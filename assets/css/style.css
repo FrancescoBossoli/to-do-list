@@ -1,0 +1,7 @@
+.bi {
+    pointer-events: none;
+}
+
+.badge {
+    cursor: pointer;
+}
